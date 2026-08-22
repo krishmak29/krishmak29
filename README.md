@@ -127,7 +127,6 @@ Building, breaking, learning — repeat
 
 </div>
 
-> ⚠️ **Note:** Replace `krishmak29` in the stat card URLs above with your exact GitHub username if it's different, or these cards won't load.
 
 ---
 
@@ -137,7 +136,6 @@ Building, breaking, learning — repeat
   <img src="https://raw.githubusercontent.com/krishmak29/krishmak29/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
-> This snake animation needs a one-time GitHub Actions setup (I've added it below).
 
 ---
 
