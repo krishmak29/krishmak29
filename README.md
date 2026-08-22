@@ -1,4 +1,4 @@
-# Hi, I'm Kriish Makwane 👋
+# Hi, I'm Krish Makwane 👋
 
 ### Software Developer | Python | Flask | JavaScript | Linux
 
