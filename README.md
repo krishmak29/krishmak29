@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/krishmakwane">
+<a href="https://www.linkedin.com/in/krishmak29">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:krish2962003@gmail.com">
@@ -105,23 +105,23 @@ Krish().say_hi()
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishmakwane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmakwane&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishmak29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmak29&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishmakwane&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishmak29&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
 </div>
 
-> ⚠️ **Note:** Replace `krishmakwane` in the stat card URLs above with your exact GitHub username if it's different, or these cards won't load.
+> ⚠️ **Note:** Replace `krishmak29` in the stat card URLs above with your exact GitHub username if it's different, or these cards won't load.
 
 ---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krishmakwane/krishmakwane/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/krishmak29/krishmak29/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 > This snake animation needs a one-time GitHub Actions setup (I've added it below).
@@ -131,14 +131,14 @@ Krish().say_hi()
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishmakwane&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishmak29&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=krishmakwane&color=2E9EF7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=krishmak29&color=2E9EF7&style=flat-square&label=Profile+Views)
 
 **⭐ Thanks for visiting my profile! Feel free to connect. ⭐**
 
