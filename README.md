@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:845EC2&height=200&section=header&text=Krish%20Makwane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Python%20%7C%20Flask%20%7C%20JavaScript%20%7C%20Linux&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:845EC2&height=260&section=header&text=Krish%20Makwane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Python%20%7C%20Flask%20%7C%20JavaScript%20%7C%20Linux&descAlignY=45&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+practical+web+apps+%26+backend+systems;Automation+%7C+Developer+Infrastructure;Currently+diving+deep+into+PostgreSQL+%26+Linux;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
@@ -22,23 +22,36 @@
 I'm a software developer working on **internal software systems and automation solutions**.
 My current focus is building practical web applications, backend systems, and developer infrastructure using Python, JavaScript, Linux, Git, and related technologies.
 
-```python
-class Krish:
-    def __init__(self):
-        self.role = "Software Developer"
-        self.stack = ["Python", "Flask", "JavaScript", "Linux"]
-        self.currently_learning = [
-            "PostgreSQL & database architecture",
-            "Backend engineering",
-            "Linux & server administration",
-            "Git & GitHub workflows",
-        ]
+<br/>
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! ⭐")
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Krish().say_hi()
-```
+**🎯 Focus**
+Internal tools, automation & backend infrastructure
+
+**🧩 Core Stack**
+Python · Flask · JavaScript · Linux
+
+**🌱 Growth Areas**
+PostgreSQL · Backend engineering · Server administration
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Approach**
+Practical, maintainable solutions over flashy complexity
+
+**🔧 Daily Tools**
+VS Code · Git · Postman · Nginx
+
+**📡 Status**
+Building, breaking, learning — repeat
+
+</td>
+</tr>
+</table>
 
 ---
 
