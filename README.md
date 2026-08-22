@@ -27,23 +27,23 @@ A production internal web application for project scheduling and procurement wor
 
 ## 🛠️ Technologies & Tools
 
-### Languages
-Python • JavaScript • C • C++ • Java
+**Languages**  
+Python · JavaScript · C · C++ · Java
 
-### Backend
-Python • Flask • REST APIs
+**Backend**  
+Flask · REST APIs
 
-### Frontend
-HTML • CSS • JavaScript
+**Frontend**  
+HTML · CSS · JavaScript
 
-### Database & Data
-Excel / openpyxl • PostgreSQL
+**Database & Data**  
+PostgreSQL · Excel · openpyxl
 
-### DevOps & Infrastructure
-Linux • Git • GitHub • Gunicorn • Nginx • systemd • Cloudflare
+**DevOps & Infrastructure**  
+Linux · Git · GitHub · Gunicorn · Nginx · systemd · Cloudflare
 
-### Tools
-VS Code • Postman • MkDocs
+**Developer Tools**  
+VS Code · Postman · MkDocs
 
 ---
 
