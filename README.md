@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:845EC2&height=260&section=header&text=Krish%20Makwane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Python%20%7C%20Flask%20%7C%20JavaScript%20%7C%20Linux&descAlignY=45&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:845EC2&height=280&section=header&text=Krish%20Makwane&fontSize=50&fontColor=ffffff&animation=fadeIn&textBg=false&desc=Software%20Developer%20%7C%20Python%20%7C%20Flask%20%7C%20JavaScript%20%7C%20Linux&descSize=18&descAlignY=75" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+practical+web+apps+%26+backend+systems;Automation+%7C+Developer+Infrastructure;Currently+diving+deep+into+PostgreSQL+%26+Linux;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
