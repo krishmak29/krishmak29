@@ -1,1 +1,82 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="55%" stop-color="#160404"/>
+      <stop offset="100%" stop-color="#3B0000"/>
+    </linearGradient>
+    <linearGradient id="blade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8E8E8"/>
+      <stop offset="55%" stop-color="#C9C9C9"/>
+      <stop offset="82%" stop-color="#FF3B3B"/>
+      <stop offset="100%" stop-color="#FF1E1E"/>
+    </linearGradient>
+    <linearGradient id="textGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFDADA"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- faint kanji watermark: 侍 (samurai) -->
+  <text x="1020" y="230" font-size="260" font-family="'Noto Serif JP','Hiragino Mincho ProN',serif"
+        fill="#FF1E1E" opacity="0.06">侍</text>
+
+  <!-- mist / cut lines -->
+  <line x1="0" y1="40" x2="500" y2="40" stroke="#8B0000" stroke-width="1" opacity="0.25"/>
+  <line x1="700" y1="270" x2="1200" y2="270" stroke="#8B0000" stroke-width="1" opacity="0.25"/>
+
+  <!-- katana, diagonal slash across the banner -->
+  <g filter="url(#glow)">
+    <!-- blade -->
+    <path d="M 60,235 L 980,55 L 1000,45 L 1010,58 L 995,72 L 82,252 Z" fill="url(#blade)"/>
+    <!-- blade edge highlight -->
+    <line x1="70" y1="238" x2="985" y2="58" stroke="#FFFFFF" stroke-width="1.4" opacity="0.55"/>
+    <!-- tip -->
+    <path d="M 980,55 L 1010,58 L 1000,45 Z" fill="#FF1E1E"/>
+  </g>
+
+  <!-- tsuba (guard) -->
+  <ellipse cx="60" cy="235" rx="17" ry="9" fill="#111111" stroke="#FF1E1E" stroke-width="2" transform="rotate(-24 60 235)"/>
+
+  <!-- handle -->
+  <g transform="rotate(-24 60 235)">
+    <rect x="-70" y="228" width="130" height="14" rx="4" fill="#1a1a1a" stroke="#FF1E1E" stroke-width="1"/>
+    <line x1="-60" y1="230" x2="-45" y2="240" stroke="#FF1E1E" stroke-width="1.2" opacity="0.7"/>
+    <line x1="-38" y1="230" x2="-23" y2="240" stroke="#FF1E1E" stroke-width="1.2" opacity="0.7"/>
+    <line x1="-16" y1="230" x2="-1" y2="240" stroke="#FF1E1E" stroke-width="1.2" opacity="0.7"/>
+    <line x1="6" y1="230" x2="21" y2="240" stroke="#FF1E1E" stroke-width="1.2" opacity="0.7"/>
+    <line x1="28" y1="230" x2="43" y2="240" stroke="#FF1E1E" stroke-width="1.2" opacity="0.7"/>
+    <circle cx="-70" cy="235" r="7" fill="#FF1E1E"/>
+  </g>
+
+  <!-- name -->
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif"
+        font-size="58" font-weight="700" fill="url(#textGlow)" filter="url(#softGlow)"
+        letter-spacing="2">KRISH MAKWANE</text>
+
+  <!-- subtitle -->
+  <text x="600" y="188" text-anchor="middle" font-family="'Fira Code',monospace"
+        font-size="19" fill="#FF6B6B" letter-spacing="1">
+    Software Developer &#183; Python &#183; Flask &#183; JavaScript &#183; Linux
+  </text>
+
+  <!-- small kanji accents bottom corners -->
+  <text x="40" y="285" font-size="26" font-family="'Noto Serif JP',serif" fill="#FF1E1E" opacity="0.55">忍</text>
+  <text x="1130" y="285" font-size="26" font-family="'Noto Serif JP',serif" fill="#FF1E1E" opacity="0.55">刀</text>
+</svg>
