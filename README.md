@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,100:8B0000&height=280&section=header&text=Krish%20Makwane&fontSize=50&fontColor=ffffff&animation=fadeIn&textBg=false&desc=Software%20Developer%20%7C%20Python%20%7C%20Flask%20%7C%20JavaScript%20%7C%20Linux&descSize=18&descAlignY=75" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF1E1E&center=true&vCenter=true&width=600&lines=Building+practical+web+apps+%26+backend+systems;Automation+%7C+Developer+Infrastructure;Currently+diving+deep+into+PostgreSQL+%26+Linux;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1E1E&center=true&vCenter=true&width=650&lines=Building+practical+web+apps+%26+backend+systems;Automation+%7C+Developer+Infrastructure;Currently+diving+deep+into+PostgreSQL+%26+Linux;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 <br/>
 
@@ -15,11 +15,7 @@
 
 </div>
 
-<div align="center">
-
-⚔️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚔️
-
-</div>
+<img src="./assets/divider.svg" width="100%"/>
 
 ### 🥷 About Me
 
@@ -57,11 +53,7 @@ Building, breaking, learning — repeat
 </tr>
 </table>
 
-<div align="center">
-
-⚔️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚔️
-
-</div>
+<img src="./assets/divider.svg" width="100%"/>
 
 ### ⚔️ Technologies & Tools
 
@@ -110,11 +102,7 @@ Building, breaking, learning — repeat
 
 </div>
 
-<div align="center">
-
-⚔️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚔️
-
-</div>
+<img src="./assets/divider.svg" width="100%"/>
 
 ### 🗡️ Currently Learning
 
@@ -124,11 +112,7 @@ Building, breaking, learning — repeat
 - 🥷 Git & GitHub workflows
 - 🥷 Software development best practices
 
-<div align="center">
-
-⚔️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚔️
-
-</div>
+<img src="./assets/divider.svg" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -143,11 +127,7 @@ Building, breaking, learning — repeat
 
 </div>
 
-<div align="center">
-
-⚔️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚔️
-
-</div>
+<img src="./assets/divider.svg" width="100%"/>
 
 ### 🐍 Contribution Snake
 
@@ -157,7 +137,7 @@ Building, breaking, learning — repeat
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:8B0000,100:0D0D0D&height=100&section=footer" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krishmak29&color=8B0000&style=for-the-badge&label=Profile+Views)
 
