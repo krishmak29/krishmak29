@@ -68,43 +68,18 @@ Building, breaking, learning — repeat
 
 <div align="center">
 
-<br/>
-
-**LANGUAGES**
-<br/><br/>
 <img src="https://img.shields.io/badge/Python-0B0B0B?style=flat-square&logo=python&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/C-0B0B0B?style=flat-square&logo=c&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/C++-0B0B0B?style=flat-square&logo=cplusplus&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/Java-0B0B0B?style=flat-square&logo=openjdk&logoColor=E02020"/>
-
-<br/><br/>
-
-**BACKEND**
-<br/><br/>
 <img src="https://img.shields.io/badge/Flask-0B0B0B?style=flat-square&logo=flask&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/REST_APIs-0B0B0B?style=flat-square&logo=fastapi&logoColor=E02020"/>
-
-<br/><br/>
-
-**FRONTEND**
-<br/><br/>
 <img src="https://img.shields.io/badge/HTML5-0B0B0B?style=flat-square&logo=html5&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/CSS3-0B0B0B?style=flat-square&logo=css3&logoColor=E02020"/>
-<img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=E02020"/>
-
-<br/><br/>
-
-**DATABASE & DATA**
-<br/><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-0B0B0B?style=flat-square&logo=postgresql&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/Excel-0B0B0B?style=flat-square&logo=microsoft-excel&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/openpyxl-0B0B0B?style=flat-square&logo=python&logoColor=E02020"/>
-
-<br/><br/>
-
-**DEVOPS & INFRASTRUCTURE**
-<br/><br/>
 <img src="https://img.shields.io/badge/Linux-0B0B0B?style=flat-square&logo=linux&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/Git-0B0B0B?style=flat-square&logo=git&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=flat-square&logo=github&logoColor=E02020"/>
@@ -112,11 +87,6 @@ Building, breaking, learning — repeat
 <img src="https://img.shields.io/badge/NGINX-0B0B0B?style=flat-square&logo=nginx&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/systemd-0B0B0B?style=flat-square&logo=linux&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/Cloudflare-0B0B0B?style=flat-square&logo=cloudflare&logoColor=E02020"/>
-
-<br/><br/>
-
-**DEVELOPER TOOLS**
-<br/><br/>
 <img src="https://img.shields.io/badge/VS_Code-0B0B0B?style=flat-square&logo=visualstudiocode&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/Postman-0B0B0B?style=flat-square&logo=postman&logoColor=E02020"/>
 <img src="https://img.shields.io/badge/MkDocs-0B0B0B?style=flat-square&logo=materialformkdocs&logoColor=E02020"/>
