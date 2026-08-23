@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1E1E&center=true&vCenter=true&width=650&lines=Building+practical+web+apps+%26+backend+systems;Automation+%7C+Developer+Infrastructure;Currently+diving+deep+into+PostgreSQL+%26+Linux;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1E1E&center=true&vCenter=true&width=850&lines=Building+practical+web+apps+%26+backend+systems;Automation+%7C+Developer+Infrastructure;Currently+diving+deep+into+PostgreSQL+%26+Linux;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 <br/>
 
@@ -106,11 +106,11 @@ Building, breaking, learning — repeat
 
 ### 🗡️ Currently Learning
 
-- 🥷 PostgreSQL & database architecture
-- 🥷 Backend engineering
-- 🥷 Linux & server administration
-- 🥷 Git & GitHub workflows
-- 🥷 Software development best practices
+- 🗡️ PostgreSQL & database architecture
+- 🗡️ Backend engineering
+- 🗡️ Linux & server administration
+- 🗡️ Git & GitHub workflows
+- 🗡️ Software development best practices
 
 <img src="./assets/divider.svg" width="100%"/>
 
